@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Member Component should render without issues 1`] = `
+<View>
+  <Text>
+    Member
+  </Text>
+  <Text
+    key="1"
+    testID="memberDetail"
+  >
+    maman
+  </Text>
+  <Text
+    key="2"
+    testID="memberDetail"
+  >
+    jajang
+  </Text>
+</View>
+`;
